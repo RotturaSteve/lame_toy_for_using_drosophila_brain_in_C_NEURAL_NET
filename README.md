@@ -1,0 +1,1 @@
+Pack the FlyWire release into a CSR graph, that was missing from what i searched for and asked AI about the existing chess trained fly weights it was missing the CSR graph, you download the 10+ gig files this makes it work as trained with the other download of the chess playing weights
